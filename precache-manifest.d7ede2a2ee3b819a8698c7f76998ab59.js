@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5d7d22ca5938d955d72c6fc7a819cf1",
+    "revision": "4e91c3b6670d7398e8e45b61c3e616c5",
     "url": "/login-SPA/index.html"
   },
   {
-    "revision": "2c6cbe9205336dc94976",
+    "revision": "35ac28d9b5b1e7e4eb90",
     "url": "/login-SPA/static/css/2.4b6e3ef2.chunk.css"
   },
   {
-    "revision": "2854a3746856aeb70fdf",
+    "revision": "a78c0202a768ce655a9d",
     "url": "/login-SPA/static/css/main.ee7be533.chunk.css"
   },
   {
-    "revision": "2c6cbe9205336dc94976",
-    "url": "/login-SPA/static/js/2.a06210d0.chunk.js"
+    "revision": "35ac28d9b5b1e7e4eb90",
+    "url": "/login-SPA/static/js/2.7dc39193.chunk.js"
   },
   {
     "revision": "cacaf3f01dd3bd8237006f7c58951c1c",
-    "url": "/login-SPA/static/js/2.a06210d0.chunk.js.LICENSE.txt"
+    "url": "/login-SPA/static/js/2.7dc39193.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2854a3746856aeb70fdf",
-    "url": "/login-SPA/static/js/main.700200bb.chunk.js"
+    "revision": "a78c0202a768ce655a9d",
+    "url": "/login-SPA/static/js/main.12b4c637.chunk.js"
   },
   {
     "revision": "9fa381235b885b4abade",
